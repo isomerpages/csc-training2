@@ -25,3 +25,13 @@ description: ""
 
 <img src="/images/hero-banner.png"
 		 style="width:400px;">
+		 
+<table>
+	<tr>
+		<td>This is text in the first column of a 2-column table</td>
+		<td><img src="/images/hero-banner.png"
+		 style="width:400px;">
+			<tr>
+</table>
+		
+<a href="https://www.csc.gov.sg">Link to CSC Website</a>
