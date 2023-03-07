@@ -5,4 +5,4 @@ description: ""
 ---
 <h1>Heading 1</h1>
 
-<a href="www.google.com">Google</a>
+<a href="https://www.google.com" target="_blank">Google</a>
