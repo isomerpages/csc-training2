@@ -23,7 +23,8 @@ description: ""
 	</tr>
 
 <tr>
-	<td>	<img src="/images/hero-banner.png"></td>
-	<td>	<img src="/images/hero-banner.png"></td>
+	<td><img src="/images/hero-banner.png"></td>
+	<td><img src="/images/hero-banner.png"></td>
 	</tr>
 	</table>
+	<a href="http://www.google.com"/>Google</a>
