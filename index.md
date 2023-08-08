@@ -4,14 +4,14 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: "We've just discovered a FAKE Telegram account (@cscsingapura)
-  that is using the CSC logo and claimed to help with job opportunities with the
+notification: We've just discovered a FAKE Telegram account (@cscsingapura) that
+  is using the CSC logo and claimed to help with job opportunities with the
   Singapore Government. Please be cautious and aware that the ONLY official
   Telegram account for the Civil Service College is @CSCSingapore. Any other
   accounts are not affiliated with us. We will not ask you for your NRIC number
   and photo of your NRIC in Telegram, nor will we ask for any other private bank
   or account information. Protect your information and report any suspicious
-  activity to the relevant authorities immediately. "
+  activity to the relevant authorities immediately.
 sections:
   - hero:
       title: Hero title
